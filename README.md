@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub+profile+page+." />
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=3000&center=true&color=FFDAAD&vCenter=true&repeat=true&width=435&lines=Welcome+to+my+GitHub." />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flashfish777&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=github" />
   </a>
   <a href="https://github.com/flashfish777">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashfish777&locale=cn&line_height=33&theme=dracula&langs_count=6&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashfish777&locale=en&line_height=33&theme=dracula&langs_count=6&layout=compact" />
   </a>
 </p>
 
@@ -50,8 +50,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/flashfish777/flashfish777/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/flashfish777/flashfish777/output/github-contribution-grid-snake.svg">
 </picture>
+<h3>臭学游开的，准备玩够之后进厂打螺丝......
 
+我的博客 -> [flashfish777-blog](www.flashfish777.cn)
+
+最好的乐程团队 -> [lec-org](https://github.com/lec-org)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=hungry↑to↑death&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=Make Lec Greate Again!&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
+
