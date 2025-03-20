@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=chenJH123456&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=flashfish777&theme=gruvbox-duo&hide_border=%E7%9C%9F&border_radius=6&locale=zh_Hans&date_format=%5BY%20%5DM%20j&mode=weekly" />
 </p>
 
 <picture>
@@ -67,4 +67,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&&section=footer&text=Make+Lec+Great+Again!&fontSize=40&fontAlign=50&fontAlignY=70&desc=&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
-
