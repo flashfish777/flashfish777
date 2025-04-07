@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🔭 我的博客 <a href="https://www.flashfish777.cn" target="_blank">flashfish777-blog</a>
+  🔭 我的博客 <a href="https://www.flashfish777.cn" target="_blank">flashfish777.cn</a>
 </p>
 
 <p align="center">
