@@ -21,10 +21,10 @@
 
 <p align="center">
   <a href="https://github.com/flashfish777">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flashfish777&locale=cn&line_height=33&show_icons=true&hide=&theme=ambient_gradient&rank_icon=github" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=flashfish777&locale=cn&line_height=33&show_icons=true&hide=&theme=ambient_gradient&rank_icon=github&include_all_commits=true" />
   </a>
   <a href="https://github.com/flashfish777">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashfish777&locale=en&line_height=33&theme=ambient_gradient&langs_count=6&layout=compact" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flashfish777&locale=cn&line_height=33&theme=ambient_gradient&langs_count=6&layout=compact" />
   </a>
 </p>
 
